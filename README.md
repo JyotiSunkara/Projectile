@@ -3,7 +3,7 @@ A projectile launch simulation using the graphics library in `C++`. The applicat
 
 This project helps users visualtise the equations of projectile motion by watching a ball being projected across the screen as the user changes the **angle of projection** and **the intial velocity** with which the ball is projected using keyboard presses!
 
-The project has been written using Dev C++ IDE on Windows. To run the application simply open the project file `sdfs` and then head to `Excecute > Run`.
+The project has been written using **Dev C++ IDE** on Windows and can be installed [here](https://sourceforge.net/projects/orwelldevcpp/). To run the application simply open the project file `ProjectileMotion.dev` as a project and then head to `Excecute > Run`.
 
 ## Theory 
 
